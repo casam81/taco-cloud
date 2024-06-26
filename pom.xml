@@ -13,7 +13,8 @@
 	<name>taco-cloud</name>
 	<description>Taco Cloud Example</description>
 	<scm>
-		<developerConnection>${developerConnectionUrl}</developerConnection>
+		<developerConnection>scm:git:https://github.com/casam81/taco-cloud</developerConnection>
+		<url>https://github.com/casam81/taco-cloud</url>
 		<tag>v0.0.2</tag>
 	</scm>
 	<properties>
