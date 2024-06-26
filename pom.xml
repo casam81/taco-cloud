@@ -14,7 +14,7 @@
 	<description>Taco Cloud Example</description>
 	<scm>
 		<developerConnection>${developerConnectionUrl}</developerConnection>
-		<tag>v0.0.1</tag>
+		<tag>v0.0.2</tag>
 	</scm>
 	<properties>
 		<java.version>17</java.version>
